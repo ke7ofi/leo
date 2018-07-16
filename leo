@@ -34,11 +34,11 @@ xkb_symbols "leo_base" {
  key <AC03> { [ d, D ] };
  key <AC04> { [ f, F ] };
  key <AC05> { [ g, G ] };
- key <AC06> { [ h, H ] };
- key <AC07> { [ j, J, Left, Left ] };
- key <AC08> { [ k, K, Down, Down ] };
- key <AC09> { [ l, L, Up, Up ] };
- key <AC10> { [ semicolon, colon, Right, Right ] };
+ key <AC06> { [ h, H, Left, Left ] };
+ key <AC07> { [ j, J, Down, Down ] };
+ key <AC08> { [ k, K, Up, Up ] };
+ key <AC09> { [ l, L, Right, Right] };
+ key <AC10> { [ semicolon, colon ] };
  key <AC11> { [ apostrophe, quotedbl ] };
 
  key <AB01> { [ z, Z ] };
