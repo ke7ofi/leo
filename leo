@@ -21,11 +21,11 @@ xkb_symbols "leo_base" {
  key <AD03> { [ e, E ] };
  key <AD04> { [ r, R ] };
  key <AD05> { [ t, T ] };
- key <AD06> { [ y, Y ] };
- key <AD07> { [ u, U, Home, Home ] };
- key <AD08> { [ i, I, Next, Next ] };
- key <AD09> { [ o, O, Prior, Prior ] };
- key <AD10> { [ p, P, End, End ] };
+ key <AD06> { [ y, Y Home, Home ] };
+ key <AD07> { [ u, U, Next, Next ] };
+ key <AD08> { [ i, I, Prior, Prior ] };
+ key <AD09> { [ o, O, End, End ] };
+ key <AD10> { [ p, P ] };
  key <AD11> { [ bracketleft, braceleft ] };
  key <AD12> { [ bracketright, braceright ] };
 
