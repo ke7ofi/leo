@@ -14,4 +14,4 @@ Laptop keyboards never seem to agree on where things like arrow keys go, so it m
 
 ### Density
 
-There's no compelling reason not to provide as many characters as possible; while we probably don't need 8000 characters like on the original space-cadet keyboards, it certainly doesn't hurt to have some Greek letters and language-specific characters.
+There's no compelling reason not to provide as many characters as possible; while we probably don't need 4 bucky bits like on the original space-cadet keyboards, it certainly doesn't hurt to have some Greek letters and language-specific characters.
