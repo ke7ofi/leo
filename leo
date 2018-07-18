@@ -43,7 +43,7 @@ xkb_symbols "leo" {
  key <AC11> { [ apostrophe, quotedbl ], [ , ] };
 
  key <AB01> { [ z, Z ], [ , ] };
- key <AB02> { [ x, X ], [ , ] };
+ key <AB02> { [ x, X ], [ Delete, BackSpace ] };
  key <AB03> { [ c, C ], [ , ] };
  key <AB04> { [ v, V ], [ , ] };
  key <AB05> { [ b, B ], [ , ] };
