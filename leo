@@ -5,11 +5,8 @@ xkb_symbols "leo" {
 
 	include "caps(escape)" // make CapsLock function as Escape
 
-	include "lv3(lsgt_switch_lock)"
-	include "lv3(ralt_switch_lock)"
-
+	include "lv3(ralt_switch)"
 	include "lv5(caps_switch)"
-	include "lv5(bksl_switch)"
 
 	key <TLDE> { [ grave, asciitilde ] };
 	key <AE01> { [ 1, exclam ] };
