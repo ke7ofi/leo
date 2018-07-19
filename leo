@@ -3,7 +3,8 @@ xkb_symbols "leo" {
 
 	include "us(basic)"
 	name[Group1]= "maneuver";
-	 
+	name[Group1]= "symbols";	 
+
 	key <TLDE> { [ grave, asciitilde ], [ , ] };
 	key <AE01> { [ 1, exclam ], [ , ] };
 	key <AE02> { [ 2, at ], [ , ] };
