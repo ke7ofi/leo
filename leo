@@ -2,11 +2,11 @@ partial alphanumeric_keys modifier_keys
 xkb_symbols "leo" {
 
 	include "us(basic)"
-  include "shift(both_capslock)"
-  include "level3(caps_switch)"
-  include "level3(bksl_switch)"
-  include "level5(lsgt_switch_lock)"
-  include "level5(ralt_switch_lock)"
+	include "caps(escape)" // make CapsLock function as Escape
+	include "lvl3(caps_switch)"
+	include "lvl3(bksl_switch)"
+	include "lvl5(lsgt_switch_lock)"
+	include "lvl5(ralt_switch_lock)"
 
 	key <TLDE> { [ grave, asciitilde ] };
 	key <AE01> { [ 1, exclam ] };
